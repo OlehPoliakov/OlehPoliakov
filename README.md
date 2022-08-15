@@ -1,5 +1,6 @@
 ### Hello 👋 and welcome to my GitHub profile!
 
+# Hello 👋 and welcome to my GitHub profile!
 <!--
 **OlehPoliakov/OlehPoliakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
