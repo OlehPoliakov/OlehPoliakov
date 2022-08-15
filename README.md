@@ -15,3 +15,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My stack and tools
+JavaScript
+
+JavaScript
+
+React
+
+Node.js
+
+PostgreSQL
+
+MongoDB
+
+HTML5
+
+CSS3
+
+Sass
+
+MySQL
+
+MySQL
+
+MySQL
+
+Git
+
+GitHub
+
+Terminal
+
+Visual Studio Code
