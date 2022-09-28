@@ -25,7 +25,6 @@
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-555?logo=react&style=for-the-badge" alt="react" title="react" /></a>
   <a href="https://www.gnu.org/software/bash/" > <img src="https://img.shields.io/badge/Bash-555?logo=gnubash&style=for-the-badge" alt="bash" title="Bash" /></a> 
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-555?logo=git&style=for-the-badge" alt="git" title="Git" /></a> 
-  <a href="https://gulpjs.com"><img src="https://img.shields.io/badge/Gulp-555?logo=gulp&style=for-the-badge" alt="gulp" title="gulp" /></a> 
   <a href="https://parceljs.org/"><img src="https://img.shields.io/badge/Parcel-555?logo=parcel&style=for-the-badge" alt="parsel" title="Parsel" /></a> 
   <a href="https://webpack.js.org"><img src="https://img.shields.io/badge/Webpack-555?logo=webpack&style=for-the-badge" alt="webpack" title="Webpack" /></a>
   <a href="https://www.npmjs.com/"> <img src="https://img.shields.io/badge/Npm-555?logo=npm&style=for-the-badge" alt="npm" title="NPM" /></a> 
