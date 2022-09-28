@@ -29,7 +29,6 @@
   <a href="https://parceljs.org/"><img src="https://img.shields.io/badge/Parcel-555?logo=parcel&style=for-the-badge" alt="parsel" title="Parsel" /></a> 
   <a href="https://webpack.js.org"><img src="https://img.shields.io/badge/Webpack-555?logo=webpack&style=for-the-badge" alt="webpack" title="Webpack" /></a>
   <a href="https://www.npmjs.com/"> <img src="https://img.shields.io/badge/Npm-555?logo=npm&style=for-the-badge" alt="npm" title="NPM" /></a> 
-  <a href="https://postman.com"> <img src="https://img.shields.io/badge/Postman-555?logo=postman&style=for-the-badge" alt="postman" title="Postman" /></a>
   <a href="https://www.figma.com/"> <img src="https://img.shields.io/badge/Figma-555?logo=figma&style=for-the-badge" alt="figma" title="Figma" /></a>   
 </p>
 
