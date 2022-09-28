@@ -35,3 +35,11 @@
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <img alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<h3 align="left">Statistics:</h3>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=OlehPoliakov&show_icons=true&locale=en&theme=vue-dark" alt="OlehPoliakov" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=OlehPoliakov&show_icons=true&locale=en&layout=compact&langs_count=6&theme=vue-dark" alt="OlehPoliakov" /></p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=OlehPoliakov&label=Profile%20views&color=0e75b6&style=flat" alt="OlehPoliakov" /></p>
