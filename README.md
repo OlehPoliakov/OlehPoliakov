@@ -14,27 +14,24 @@
 <a href="https://t.me/OlehRurikovich"><img src="https://img.shields.io/badge/Telegram-555?logo=telegram&style=for-the-badge" alt="telegram" title="Telegram" /></a>
 </p>
 
-### My stack and tools
-
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<img alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<h2 align="left">My stack and tools:</h2>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-555?logo=html5&style=for-the-badge" alt="html5" title="HTML5" /></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-555?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3" title="CSS3" /></a>
+  <a href="https://sass-lang.com"><img src="https://img.shields.io/badge/SASS-555?logo=sass&style=for-the-badge" alt="sass" title="SASS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/Javascript-555?logo=javascript&style=for-the-badge" alt="javascript" title="javascript" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/Typescript-555?logo=typescript&style=for-the-badge" alt="typescript" title="TypeScript" /></a>
+  <a href="https://nodejs.org"> <img src="https://img.shields.io/badge/Node.js-555?logo=node.js&style=for-the-badge" alt="nodejs" title="Node.js" /></a>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-555?logo=react&style=for-the-badge" alt="react" title="react" /></a>
+  <a href="https://www.gnu.org/software/bash/" > <img src="https://img.shields.io/badge/Bash-555?logo=gnubash&style=for-the-badge" alt="bash" title="Bash" /></a> 
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-555?logo=git&style=for-the-badge" alt="git" title="Git" /></a> 
+  <a href="https://gulpjs.com"><img src="https://img.shields.io/badge/Gulp-555?logo=gulp&style=for-the-badge" alt="gulp" title="gulp" /></a> 
+  <a href="https://parceljs.org/"><img src="https://img.shields.io/badge/Parcel-555?logo=parcel&style=for-the-badge" alt="parsel" title="Parsel" /></a> 
+  <a href="https://webpack.js.org"><img src="https://img.shields.io/badge/Webpack-555?logo=webpack&style=for-the-badge" alt="webpack" title="Webpack" /></a>
+  <a href="https://www.npmjs.com/"> <img src="https://img.shields.io/badge/Npm-555?logo=npm&style=for-the-badge" alt="npm" title="NPM" /></a> 
+  <a href="https://postman.com"> <img src="https://img.shields.io/badge/Postman-555?logo=postman&style=for-the-badge" alt="postman" title="Postman" /></a>
+  <a href="https://www.figma.com/"> <img src="https://img.shields.io/badge/Figma-555?logo=figma&style=for-the-badge" alt="figma" title="Figma" /></a>   
+</p>
 
 <h3 align="left">Statistics:</h3>
 
