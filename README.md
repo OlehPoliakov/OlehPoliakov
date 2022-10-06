@@ -30,6 +30,7 @@
   <a href="https://www.npmjs.com/"> <img src="https://img.shields.io/badge/Npm-555?logo=npm&style=for-the-badge" alt="npm" title="NPM" /></a> 
   <a href="https://www.figma.com/"> <img src="https://img.shields.io/badge/Figma-555?logo=figma&style=for-the-badge" alt="figma" title="Figma" /></a>
   <a href="https://react-redux.js.org/" > <img src="https://img.shields.io/badge/Redux-555?logo=redux&logoColor=764ABC&style=for-the-badge" alt="redux" title="redux" /></a>
+    <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-555?logo=bootstrap&style=for-the-badge" alt="bootstrap" title="Bootstrap" /></a> 
 </p>
 
 <h2 align="left">I am interested in:</h2>
@@ -38,7 +39,6 @@
   <a href="https://angular.io"><img src="https://img.shields.io/badge/Angular-555?logo=angular&logoColor=DD0031&style=for-the-badge" alt="angularjs" title="Angular" /></a> 
   <a href="https://svelte.dev"><img src="https://img.shields.io/badge/Svelte-555?logo=svelte&style=for-the-badge" alt="svelte" title="Svelte" /></a> 
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-555?logo=nextdotjs&style=for-the-badge" alt="nextjs" title="Next.js" /></a> 
-  <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-555?logo=bootstrap&style=for-the-badge" alt="bootstrap" title="Bootstrap" /></a> 
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwindcss-555?logo=tailwindcss&style=for-the-badge" alt="Tailwind CSS" title="Tailwind CSS" /></a>
   <a href="https://graphql.org"><img src="https://img.shields.io/badge/Graphql-555?logo=graphql&style=for-the-badge" alt="graphql" title="GraphQL" /></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-555?logo=docker&style=for-the-badge" alt="docker" title="Docker" /></a> 
