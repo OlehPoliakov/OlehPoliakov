@@ -31,6 +31,7 @@
   <a href="https://www.figma.com/"> <img src="https://img.shields.io/badge/Figma-555?logo=figma&style=for-the-badge" alt="figma" title="Figma" /></a>
   <a href="https://react-redux.js.org/" > <img src="https://img.shields.io/badge/Redux-555?logo=redux&logoColor=764ABC&style=for-the-badge" alt="redux" title="redux" /></a>
     <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-555?logo=bootstrap&style=for-the-badge" alt="bootstrap" title="Bootstrap" /></a> 
+     <a href="https://material-ui.com/"> <img src="https://img.shields.io/badge/material_ui-555?logo=materialdesign&style=for-the-badge" alt="Material-UI" title="Material-UI" /></a> 
 </p>
 
 <h2 align="left">I am interested in:</h2>
@@ -49,7 +50,6 @@
   <a href="https://next.vuex.vuejs.org/"><img src="https://img.shields.io/badge/vuex-555?logo=vuedotjs&style=for-the-badge" alt="vuex" title="Vuex" /></a>
   <a href="https://quasar.dev/"><img src="https://img.shields.io/badge/quasar-555?logo=quasar&style=for-the-badge" alt="quasar" title="Quasar" /></a> 
   <a href="https://jestjs.io/"> <img src="https://img.shields.io/badge/Jest-555?logo=jest&style=for-the-badge" alt="jest" title="Jest" /></a>
-  <a href="https://material-ui.com/"> <img src="https://img.shields.io/badge/material_ui-555?logo=materialdesign&style=for-the-badge" alt="Material-UI" title="Material-UI" /></a> 
   <a href="https://expressjs.com"> <img src="https://img.shields.io/badge/Express-555?logo=express&style=for-the-badge" alt="express" title="Express" /></a>
   <a href="https://www.mongodb.com/"> <img src="https://img.shields.io/badge/Mongodb-555?logo=mongodb&style=for-the-badge" alt="mongodb" title="MongoDB" /></a>
     <a href="https://www.chartjs.org"> <img src="https://img.shields.io/badge/Chart.js-555?logo=chartdotjs&style=for-the-badge" alt="chartjs" title="Chart.js" /></a>
