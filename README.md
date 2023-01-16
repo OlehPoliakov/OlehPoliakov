@@ -40,6 +40,5 @@
   <a href="https://www.mongodb.com/"> <img src="https://img.shields.io/badge/Mongodb-555?logo=mongodb&style=for-the-badge" alt="mongodb" title="MongoDB" /></a>
 </p>
 
-<h3 align="left">Statistics:</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=OlehPoliakov&label=Profile%20views&color=0e75b6&style=flat" alt="OlehPoliakov" /></p>
